@@ -1,0 +1,27 @@
+{
+  "name": "hotword-search-trie",
+  "version": "1.0.0",
+  "description": "Search hotwords by building a trie-like structure.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/csy1983/hotword-search-trie.git"
+  },
+  "keywords": [
+    "hotword",
+    "trie"
+  ],
+  "author": "csy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/csy1983/hotword-search-trie/issues"
+  },
+  "homepage": "https://gitlab.com/csy1983/hotword-search-trie#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
